@@ -10,7 +10,9 @@ Click [here](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/hrishi_narayanan
 
 - Input is taken as a regex. This regex is parsed such that concatenation is denoted by "$.$" operation, parthesis are applied in right to left order and each paranthesis contains only one operation. For example:
 
-    $$((a+b)*+ba+c*)\ \rightarrow \ ((((a+b)*)+(b.a))+(c*))$$
+    $$
+    ((a+b)*+ba+c*)\ \rightarrow \ ((((a+b)*)+(b.a))+(c*))
+    $$
 
 - Consider a start state (say $Q_0$) and a final state (say $Q_1$). We can consider the entire regex to be a transiton between $Q_0$ and $Q_1$, as shown below:
 
