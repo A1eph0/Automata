@@ -2,7 +2,7 @@
 
 ### Assessment video:
 
-[https://iiitaphyd-my.sharepoint.com/:v:/g/personal/hrishi_narayanan_research_iiit_ac_in/EUJLrRxVqyZDpFl4tyuLP4MB7841s6IyDkoOMt7solzz6g?e=wjF7Pu](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/hrishi_narayanan_research_iiit_ac_in/EUJLrRxVqyZDpFl4tyuLP4MB7841s6IyDkoOMt7solzz6g?e=wjF7Pu)
+Click [here](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/hrishi_narayanan_research_iiit_ac_in/EUJLrRxVqyZDpFl4tyuLP4MB7841s6IyDkoOMt7solzz6g?e=wjF7Pu).
 
 # Question 1: Regular Expression →NFA
 
